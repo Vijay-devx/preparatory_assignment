@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Fibonacci 
+public class Q3_Fibonacci 
 {
     public static void main(String[] args)
     {

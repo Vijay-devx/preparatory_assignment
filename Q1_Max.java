@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Max
+public class Q1_Max
 {
     static int calculateMax(int[] arr, int n)
     {

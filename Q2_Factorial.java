@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Factorial 
+public class Q2_Factorial 
 {
     static int factorial(int n)
     {
