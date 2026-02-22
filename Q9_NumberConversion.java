@@ -25,6 +25,7 @@ public class Q9_NumberConversion
         int[] octal = new int[50];
 
         int[] hexa = new int[50];
+        
 
         //Binary execution
 
@@ -82,6 +83,7 @@ public class Q9_NumberConversion
         }
 
         System.out.println();
+
 
         // Hexadecimal execution
 
